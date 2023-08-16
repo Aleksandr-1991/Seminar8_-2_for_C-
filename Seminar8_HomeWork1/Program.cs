@@ -8,13 +8,13 @@ if (n/100 == 0 || n/1000 != 0)
 else
 {
     Console.Write ("Число действительно трёхзначное. ");
-    int SecondNumber = n / 10;
-    SecondNumber = SecondNumber % 10;
-    if (SecondNumber > 0)
-        {Console.Write ($"Вторая цифра данного числа: {SecondNumber}");}
+    int SecondDigit = n / 10;
+    SecondDigit = SecondDigit % 10;
+    if (SecondDigit > 0)
+        {Console.Write ($"Вторая цифра данного числа: {SecondDigit}");}
         else
         {
-            SecondNumber = SecondNumber * (-1);
-            Console.Write ($"Вторая цифра данного числа: {SecondNumber}");
+            SecondDigit = SecondDigit * (-1);
+            Console.Write ($"Вторая цифра данного числа: {SecondDigit}");
         }
 }
