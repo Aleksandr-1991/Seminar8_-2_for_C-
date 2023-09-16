@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1\\Seminar8_Example1.csproj": {}
+    "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1_(WriteLine_VARIANTI)\\Seminar8_Example1.csproj": {}
   },
   "projects": {
-    "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1\\Seminar8_Example1.csproj": {
+    "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1_(WriteLine_VARIANTI)\\Seminar8_Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1\\Seminar8_Example1.csproj",
+        "projectUniqueName": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1_(WriteLine_VARIANTI)\\Seminar8_Example1.csproj",
         "projectName": "Seminar8_Example1",
-        "projectPath": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1\\Seminar8_Example1.csproj",
+        "projectPath": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1_(WriteLine_VARIANTI)\\Seminar8_Example1.csproj",
         "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-        "outputPath": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1\\obj\\",
+        "outputPath": "C:\\Обуч!\\Seminar8_(2_for_C#)\\Seminar8_Example1_(WriteLine_VARIANTI)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"

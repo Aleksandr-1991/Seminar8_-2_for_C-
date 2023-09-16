@@ -1,8 +1,10 @@
 ﻿// Напис прогу, выв случ-ч. из отр. [10, 99] и показ наиб цифру числа.
-Random rand = new Random();
-int n = rand.Next(10, 100);
+
+// Random rand = new Random();
+// int n = rand.Next(10, 100); - эквивалентное выражение
+int n = new Random().Next(10, 100);
+
 Console.WriteLine(n);
-// int a = new Random().Next(10, 100); - эквивалентное выражение
 int a = n / 10;
 int b = n % 10;
 if (a > b)
