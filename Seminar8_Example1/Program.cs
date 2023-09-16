@@ -11,7 +11,7 @@ if (a > b)
 }
 else if (b > a)
 {
-    Console.WriteLine("Максимальное {1} число b = {0}", b, a);
+    Console.WriteLine("Максимальное число b = {0}", b, a);
 }
 else
 {
