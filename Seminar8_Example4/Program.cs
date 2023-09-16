@@ -4,8 +4,7 @@ Console.Write ("Введите первое число: ");
 int n1 = Convert.ToInt32(Console.ReadLine());
 Console.Write ("Введите второе число: ");
 int n2 = Convert.ToInt32(Console.ReadLine());
-int o = n1 % n2;
-if (o == 0)
+if (n1 % n2 == 0)
 {Console.Write ("Первое число кратно второму.");}
 else 
-{Console.Write ($"Не кратно, остаток от деления: {o}");}
+{Console.Write ($"Не кратно, остаток от деления: {n1 % n2}");}
