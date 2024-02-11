@@ -5,7 +5,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 if (n/100 == 0)  Console.Write ("Третьей цифры нет.");
 else
 {
-    while (n/1000 != 0)          // if (n > 999 || n < -999)
+    while (n/1000 != 0)         // if (n > 999 || n < -999)
         {
         n = n/10;
         }
